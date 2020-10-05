@@ -4,4 +4,4 @@ With this project my goal is to have a few Website Styles and new knowledge rega
 
 ### Description
 
-Changelog: [click](https://www.google.com)
+Changelog: [Click](https://github.com/Official-Husko/Project-Aurora/blob/pixel-dev/github-related/changelog.md)
