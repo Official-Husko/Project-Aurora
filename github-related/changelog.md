@@ -1,5 +1,26 @@
 # Changelog
 
+#### Update 0.1f - 05/10/2020
+
+------Added------
+Pixel Art Background with blur
+Games Tab
+Software Tab
+Movies Tab
+Website Icon
+
+------Updated------
+
+styles.css
+README.md
+Changelog.md
+
+------Removed------
+
+CV Tab
+Portfolio Tab
+Video Tab
+
 #### Update 0.1e - 05/10/2020
 
 ------Updated------
