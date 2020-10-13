@@ -1,5 +1,11 @@
 # Changelog  
   
+#### Update 0.1h - 09/10/2020  
+  
+------Added------  
+Directories for Movies, Games and Software  
+FTP Upload to server  
+  
 #### Update 0.1g - 09/10/2020  
   
 ------Updated------  
