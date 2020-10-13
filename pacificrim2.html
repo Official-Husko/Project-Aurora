@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
+
+    <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <script src="//path/to/videojs-contrib-quality-levels.min.js"></script>
+    <script src="//path/to/videojs-hls-quality-selector.min.js"></script>
+    <script>
+      var player = videojs("my-video");
+
+      player.hlsQualitySelector();
+    </script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link
+      href="https://unpkg.com/nes.css@latest/css/nes.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <title>Pacific Rim 2</title>
+    <link rel="icon" href="https://i.imgur.com/dEf9jti.png" />
+  </head>
+  <body class="text-center full-body">
+    <div id="background"></div>
+    <div class="container p-3 d-flex flex-column h-100 mx-auto">
+      <header class="mb-auto">
+        <h3 class="masthead-brand">
+          <font size="4">Husko's Den Productions</font>
+        </h3>
+        <nav class="nav nav-masthead justify-content-center">
+          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" href="games.html">Games</a>
+          <a class="nav-link" href="software.html">Software</a>
+          <a class="nav-link active" href="movies.html">Movies</a>
+          <a class="nav-link" href="contact.html">Contact</a>
+        </nav>
+      </header>
+      <main role="main" class="nes-container is-dark with-title is-centered">
+        <h1 class="title">
+          <i class="nes-icon is-small heart"></i>
+          Pacific Rim 2
+          <i class="nes-icon is-small heart"></i>
+        </h1>
+        <p>
+          <video
+            id="my-video"
+            class="video-js"
+            controls
+            preload="auto"
+            width="1030"
+            height="500"
+            poster="https://zombiewoodproductions.files.wordpress.com/2012/12/bones-die-knochenjaeger-666.jpg"
+            data-setup="{}"
+          >
+            <source
+              src="movies/Media/movies/german/Bones S1E1 - Frau im Teich.mp4"
+              type="video/MP4"
+            />
+          </video>
+        </p>
+        <p class="title">Description</p>
+        <p>
+          t is 2035, ten years after the Battle of the Breach, in which the
+          inter-dimensional portal created by the Precursors (through which they
+          sent marauding Kaiju) was closed. Former Jaeger pilot Jake Pentecost -
+          son of Battle of the Breach hero Stacker Pentecost - makes a living by
+          stealing and selling Jaeger parts on the black market in the Los
+          Angeles area. After he tracks part of a disabled Jaeger's power core
+          to the secret workshop of fifteen year-old Jaeger enthusiast Amara
+          Namani, both are arrested by the Pan-Pacific Defense Corps (PPDC)
+          after an altercation between Amara's small, single-pilot Jaeger
+          Scrapper and the Police Jaeger November Ajax. A holographic
+          transmission of Jake's adoptive sister and PPDC Secretary General Mako
+          Mori persuades him to return to PPDC as an instructor, with Amara as
+          his recruit..
+        </p>
+      </main>
+      <footer class="mt-auto">
+        <p>
+          <font size="1" class="color-footer">Website made by Husko with </font
+          ><i class="nes-icon is-small heart"></i>
+          <a target="_blank" href="https://github.com/Official-Husko"
+            ><i class="nes-icon github is-small"></i
+          ></a>
+        </p>
+      </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
+  </body>
+</html>

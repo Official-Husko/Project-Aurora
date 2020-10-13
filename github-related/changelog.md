@@ -1,6 +1,23 @@
 # Changelog  
   
-#### Update 0.1h - 09/10/2020  
+#### Update 0.1i - 13/10/2020  
+  
+------Added------  
+Media Player (pacificrim2.html)  
+test Movie (My PC Only)  
+pacificrim2.html  
+Known-Issues.md  
+  
+------Updated------  
+Changelog.md  
+.gitignore  
+movies.html  
+styles.css  
+  
+------Fixed------  
+Changelog.md  
+  
+#### Update 0.1h - 13/10/2020  
   
 ------Added------  
 Directories for Movies, Games and Software  
